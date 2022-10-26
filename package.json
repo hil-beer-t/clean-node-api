@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test:staged": "jest"
   },
   "author": "",
   "license": "ISC",
@@ -22,6 +23,6 @@
     "jest": "^29.2.2",
     "lint-staged": "^13.0.3",
     "ts-jest": "^29.0.3",
-    "typescript": "file:../../../../../*"
+    "typescript": "^4.8.4"
   }
 }
